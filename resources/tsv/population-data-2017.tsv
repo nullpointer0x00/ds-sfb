@@ -1,0 +1,761 @@
+1		New York , New York		8,537,673
+2		Los Angeles , California		3,976,322
+3		Chicago , Illinois		2,704,958
+4		Houston , Texas		2,303,482
+5		Phoenix , Arizona		1,615,017
+6		Philadelphia , Pennsylvania		1,567,872
+7		San Antonio , Texas		1,492,510
+8		San Diego , California		1,406,630
+9		Dallas , Texas		1,317,929
+10		San Jose , California		1,025,350
+11		Austin , Texas		947,890
+12		Jacksonville , Florida		880,619
+13		San Francisco , California		870,887
+14		Columbus , Ohio		860,090
+15		Indianapolis  (balance), Indiana		855,164
+16		Fort Worth , Texas		854,113
+17		Charlotte , North Carolina		842,051
+18		Seattle , Washington		704,352
+19		Denver , Colorado		693,060
+20		El Paso , Texas		683,080
+21		Washington , District of Columbia		681,170
+22		Boston , Massachusetts		673,184
+23		Detroit , Michigan		672,795
+24		Nashville-Davidson, Tennessee		660,388
+25		Memphis , Tennessee		652,717
+26		Portland , Oregon		639,863
+27		Oklahoma City , Oklahoma		638,367
+28		Las Vegas , Nevada		632,912
+29		Louisville/Jefferson, Kentucky		616,261
+30		Baltimore , Maryland		614,664
+31		Milwaukee , Wisconsin		595,047
+32		Albuquerque , New Mexico		559,277
+33		Tucson , Arizona		530,706
+34		Fresno , California		522,053
+35		Sacramento , California		495,234
+36		Mesa , Arizona		484,587
+37		Kansas City , Missouri		481,420
+38		Atlanta , Georgia		472,522
+39		Long Beach , California		470,130
+40		Colorado Springs , Colorado		465,101
+41		Raleigh , North Carolina		458,880
+42		Miami , Florida		453,579
+43		Virginia Beach , Virginia		452,602
+44		Omaha , Nebraska		446,970
+45		Oakland , California		420,005
+46		Minneapolis , Minnesota		413,651
+47		Tulsa , Oklahoma		403,090
+48		Arlington , Texas		392,772
+49		New Orleans , Louisiana		391,495
+50		Wichita , Kansas		389,902
+51		Cleveland , Ohio		385,809
+52		Tampa , Florida		377,165
+53		Bakersfield , California		376,380
+54		Aurora , Colorado		361,710
+55		Urban Honolulu CDP, Hawaii		351,792
+56		Anaheim , California		351,043
+57		Santa Ana , California		334,217
+58		Corpus Christi , Texas		325,733
+59		Riverside , California		324,722
+60		Lexington-Fayette, Kentucky		318,449
+61		St. Louis , Missouri		311,404
+62		Stockton , California		307,072
+63		Pittsburgh , Pennsylvania		303,625
+64		St. Paul , Minnesota		302,398
+65		Cincinnati , Ohio		298,800
+66		Anchorage municipality, Alaska		298,192
+67		Henderson , Nevada		292,969
+68		Greensboro , North Carolina		287,027
+69		Plano , Texas		286,057
+70		Newark , New Jersey		281,764
+71		Lincoln , Nebraska		280,364
+72		Toledo , Ohio		278,508
+73		Orlando , Florida		277,173
+74		Chula Vista , California		267,172
+75		Irvine , California		266,122
+76		Fort Wayne , Indiana		264,488
+77		Jersey City , New Jersey		264,152
+78		Durham , North Carolina		263,016
+79		St. Petersburg , Florida		260,999
+80		Laredo , Texas		257,156
+81		Buffalo , New York		256,902
+82		Madison , Wisconsin		252,551
+83		Lubbock , Texas		252,506
+84		Chandler , Arizona		247,477
+85		Scottsdale , Arizona		246,645
+86		Glendale , Arizona		245,895
+87		Reno , Nevada		245,255
+88		Norfolk , Virginia		245,115
+89		Winston-Salem , North Carolina		242,203
+90		North Las Vegas , Nevada		238,702
+91		Irving , Texas		238,289
+92		Chesapeake , Virginia		237,940
+93		Gilbert town, Arizona		237,133
+94		Hialeah , Florida		236,387
+95		Garland , Texas		234,943
+96		Fremont , California		233,136
+97		Baton Rouge , Louisiana		227,715
+98		Richmond , Virginia		223,170
+99		Boise City , Idaho		223,154
+100		San Bernardino , California		216,239
+101		Spokane , Washington		215,973
+102		Des Moines , Iowa		215,472
+103		Modesto , California		212,175
+104		Birmingham , Alabama		212,157
+105		Tacoma , Washington		211,277
+106		Fontana , California		209,665
+107		Rochester , New York		208,880
+108		Oxnard , California		207,906
+109		Moreno Valley , California		205,499
+110		Fayetteville , North Carolina		204,759
+111		Aurora , Illinois		201,110
+112		Glendale , California		200,831
+113		Yonkers , New York		200,807
+114		Huntington Beach , California		200,652
+115		Montgomery , Alabama		200,022
+116		Amarillo , Texas		199,582
+117		Little Rock , Arkansas		198,541
+118		Akron , Ohio		197,633
+119		Columbus , Georgia		197,485
+120		Augusta-Richmond County, Georgia		197,081
+121		Grand Rapids , Michigan		196,445
+122		Shreveport , Louisiana		194,920
+123		Salt Lake City , Utah		193,744
+124		Huntsville , Alabama		193,079
+125		Mobile , Alabama		192,904
+126		Tallahassee , Florida		190,894
+127		Grand Prairie , Texas		190,682
+128		Overland Park , Kansas		188,966
+129		Knoxville , Tennessee		186,239
+130		Port St. Lucie , Florida		185,132
+131		Worcester , Massachusetts		184,508
+132		Brownsville , Texas		183,823
+133		Tempe , Arizona		182,498
+134		Santa Clarita , California		181,972
+135		Newport News , Virginia		181,825
+136		Cape Coral , Florida		179,804
+137		Providence , Rhode Island		179,219
+138		Fort Lauderdale , Florida		178,752
+139		Chattanooga , Tennessee		177,571
+140		Rancho Cucamonga , California		176,534
+141		Oceanside , California		175,464
+142		Santa Rosa , California		175,155
+143		Garden Grove , California		174,858
+144		Vancouver , Washington		174,826
+145		Sioux Falls , South Dakota		174,360
+146		Ontario , California		173,212
+147		McKinney , Texas		172,298
+148		Elk Grove , California		169,743
+149		Jackson , Mississippi		169,148
+150		Pembroke Pines , Florida		168,587
+151		Salem , Oregon		167,419
+152		Springfield , Missouri		167,319
+153		Corona , California		166,785
+154		Eugene , Oregon		166,575
+155		Fort Collins , Colorado		164,207
+156		Peoria , Arizona		164,173
+157		Frisco , Texas		163,656
+158		Cary town, North Carolina		162,320
+159		Lancaster , California		160,106
+160		Hayward , California		158,937
+161		Palmdale , California		157,356
+162		Salinas , California		157,218
+163		Alexandria , Virginia		155,810
+164		Lakewood , Colorado		154,393
+165		Springfield , Massachusetts		154,074
+166		Pasadena , Texas		153,351
+167		Sunnyvale , California		152,771
+168		Macon-Bibb County, Georgia		152,555
+169		Pomona , California		152,494
+170		Hollywood , Florida		151,998
+171		Kansas City , Kansas		151,709
+172		Escondido , California		151,613
+173		Clarksville , Tennessee		150,287
+174		Joliet , Illinois		148,262
+175		Rockford , Illinois		147,651
+176		Torrance , California		147,195
+177		Naperville , Illinois		147,122
+178		Paterson , New Jersey		147,000
+179		Savannah , Georgia		146,763
+180		Bridgeport , Connecticut		145,936
+181		Mesquite , Texas		143,736
+182		Killeen , Texas		143,400
+183		Syracuse , New York		143,378
+184		McAllen , Texas		142,212
+185		Pasadena , California		142,059
+186		Bellevue , Washington		141,400
+187		Fullerton , California		140,721
+188		Orange , California		140,504
+189		Dayton , Ohio		140,489
+190		Miramar , Florida		138,449
+191		Thornton , Colorado		136,703
+192		West Valley City , Utah		136,574
+193		Olathe , Kansas		135,473
+194		Hampton , Virginia		135,410
+195		Warren , Michigan		135,125
+196		Midland , Texas		134,610
+197		Waco , Texas		134,432
+198		Charleston , South Carolina		134,385
+199		Columbia , South Carolina		134,309
+200		Denton , Texas		133,808
+201		Carrollton , Texas		133,351
+202		Surprise , Arizona		132,677
+203		Roseville , California		132,671
+204		Sterling Heights , Michigan		132,427
+205		Murfreesboro , Tennessee		131,947
+206		Gainesville , Florida		131,591
+207		Cedar Rapids , Iowa		131,127
+208		Visalia , California		131,074
+209		Coral Springs , Florida		130,059
+210		New Haven , Connecticut		129,934
+211		Stamford , Connecticut		129,113
+212		Thousand Oaks , California		128,888
+213		Concord , California		128,726
+214		Elizabeth , New Jersey		128,640
+215		Lafayette , Louisiana		127,626
+216		Kent , Washington		127,514
+217		Topeka , Kansas		126,808
+218		Simi Valley , California		126,327
+219		Santa Clara , California		125,948
+220		Athens-Clarke County , Georgia		123,371
+221		Hartford , Connecticut		123,243
+222		Victorville , California		122,265
+223		Abilene , Texas		122,225
+224		Norman , Oklahoma		122,180
+225		Vallejo , California		121,299
+226		Berkeley , California		121,240
+227		Round Rock , Texas		120,892
+228		Ann Arbor , Michigan		120,782
+229		Fargo , North Dakota		120,762
+230		Columbia , Missouri		120,612
+231		Allentown , Pennsylvania		120,443
+232		Evansville , Indiana		119,477
+233		Beaumont , Texas		118,299
+234		Odessa , Texas		117,871
+235		Wilmington , North Carolina		117,525
+236		Arvada , Colorado		117,453
+237		Independence , Missouri		117,030
+238		Provo , Utah		116,868
+239		Lansing , Michigan		116,020
+240		El Monte , California		115,807
+241		Springfield , Illinois		115,715
+242		Fairfield , California		114,756
+243		Clearwater , Florida		114,361
+244		Peoria , Illinois		114,265
+245		Rochester , Minnesota		114,011
+246		Carlsbad , California		113,952
+247		Westminster , Colorado		113,875
+248		West Jordan , Utah		113,699
+249		Pearland , Texas		113,570
+250		Richardson , Texas		113,347
+251		Downey , California		113,267
+252		Miami Gardens , Florida		113,058
+253		Temecula , California		113,054
+254		Costa Mesa , California		112,822
+255		College Station , Texas		112,141
+256		Elgin , Illinois		112,123
+257		Murrieta , California		111,674
+258		Gresham , Oregon		111,523
+259		High Point , North Carolina		111,223
+260		Antioch , California		110,898
+261		Inglewood , California		110,654
+262		Cambridge , Massachusetts		110,651
+263		Lowell , Massachusetts		110,558
+264		Manchester , New Hampshire		110,506
+265		Billings , Montana		110,323
+266		Pueblo , Colorado		110,291
+267		Palm Bay , Florida		110,104
+268		Centennial , Colorado		109,932
+269		Richmond , California		109,813
+270		San Buenaventura (Ventura) , California		109,592
+271		Pompano Beach , Florida		109,393
+272		North Charleston , South Carolina		109,298
+273		Everett , Washington		109,043
+274		Waterbury , Connecticut		108,272
+275		West Palm Beach , Florida		108,161
+276		Boulder , Colorado		108,090
+277		West Covina , California		107,847
+278		Broken Arrow , Oklahoma		107,403
+279		Clovis , California		106,583
+280		Daly City , California		106,472
+281		Lakeland , Florida		106,420
+282		Santa Maria , California		106,290
+283		Norwalk , California		106,178
+284		Sandy Springs , Georgia		105,703
+285		Hillsboro , Oregon		105,164
+286		Green Bay , Wisconsin		105,139
+287		Tyler , Texas		104,798
+288		Wichita Falls , Texas		104,724
+289		Lewisville , Texas		104,659
+290		Burbank , California		104,447
+291		Greeley , Colorado		103,990
+292		San Mateo , California		103,959
+293		El Cajon , California		103,768
+294		Jurupa Valley , California		103,541
+295		Rialto , California		103,314
+296		Davenport , Iowa		102,612
+297		League City , Texas		102,010
+298		Davie town, Florida		101,871
+299		Las Cruces , New Mexico		101,759
+300		South Bend , Indiana		101,735
+301		Vista , California		101,659
+302		Renton , Washington		100,953
+303		San Angelo , Texas		100,702
+304		Roanoke , Virginia		99,660
+305		Kenosha , Wisconsin		99,631
+306		Tuscaloosa , Alabama		99,543
+307		Allen , Texas		99,179
+308		Erie , Pennsylvania		98,593
+309		Sparks , Nevada		98,345
+310		Vacaville , California		98,303
+311		Albany , New York		98,111
+312		Beaverton , Oregon		97,590
+313		Compton , California		97,550
+314		Orem , Utah		97,499
+315		Flint , Michigan		97,386
+316		Federal Way , Washington		96,757
+317		Mission Viejo , California		96,396
+318		Spokane Valley , Washington		96,340
+319		Boca Raton , Florida		96,114
+320		Lee's Summit , Missouri		96,076
+321		Rio Rancho , New Mexico		96,028
+322		Sandy , Utah		95,836
+323		Brockton , Massachusetts		95,630
+324		Meridian , Idaho		95,623
+325		South Gate , California		95,538
+326		Lawrence , Kansas		95,358
+327		San Marcos , California		95,261
+328		Portsmouth , Virginia		95,252
+329		New Bedford , Massachusetts		95,032
+330		Yuma , Arizona		94,906
+331		Lawton , Oklahoma		94,653
+332		Roswell , Georgia		94,598
+333		Dearborn , Michigan		94,444
+334		Livonia , Michigan		94,041
+335		Yakima , Washington		93,986
+336		Sunrise , Florida		93,734
+337		Hesperia , California		93,724
+338		Quincy , Massachusetts		93,688
+339		Longmont , Colorado		92,858
+340		Carson , California		92,797
+341		Plantation , Florida		92,706
+342		Lynn , Massachusetts		92,697
+343		Santa Monica , California		92,478
+344		Santa Barbara , California		91,930
+345		Miami Beach , Florida		91,917
+346		Redding , California		91,808
+347		Chico , California		91,567
+348		Westminster , California		91,565
+349		Greenville , North Carolina		91,495
+350		Nampa , Idaho		91,382
+351		Edmond , Oklahoma		91,191
+352		Bend , Oregon		91,122
+353		Carmel , Indiana		91,065
+354		San Leandro , California		90,465
+355		Fishers , Indiana		90,127
+356		Deltona , Florida		90,124
+357		Concord , North Carolina		89,891
+358		Tracy , California		89,274
+359		Suffolk , Virginia		89,273
+360		Asheville , North Carolina		89,121
+361		Livermore , California		89,115
+362		Newton , Massachusetts		89,045
+363		Fall River , Massachusetts		88,930
+364		Menifee , California		88,531
+365		Indio , California		88,488
+366		Norwalk , Connecticut		88,438
+367		Waukegan , Illinois		88,182
+368		Sugar Land , Texas		88,177
+369		Fort Smith , Arkansas		88,133
+370		Hawthorne , California		88,031
+371		Nashua , New Hampshire		87,882
+372		Chino , California		87,776
+373		Kirkland , Washington		87,701
+374		Edinburg , Texas		87,650
+375		Reading , Pennsylvania		87,575
+376		Bellingham , Washington		87,574
+377		Citrus Heights , California		87,432
+378		Whittier , California		86,883
+379		Ogden , Utah		86,701
+380		Newport Beach , California		86,688
+381		Champaign , Illinois		86,637
+382		Duluth , Minnesota		86,293
+383		O'Fallon , Missouri		86,274
+384		Clifton , New Jersey		85,845
+385		Alhambra , California		85,474
+386		Bloomington , Minnesota		85,319
+387		Palm Coast , Florida		85,109
+388		Danbury , Connecticut		84,992
+389		Hoover , Alabama		84,978
+390		Redwood City , California		84,950
+391		Bloomington , Indiana		84,465
+392		Hemet , California		84,281
+393		Mount Pleasant, South Carolina		84,170
+394		Trenton , New Jersey		84,056
+395		Santa Fe , New Mexico		83,875
+396		Johns Creek , Georgia		83,873
+397		Fayetteville , Arkansas		83,826
+398		Troy , Michigan		83,641
+399		Mission , Texas		83,563
+400		Bryan , Texas		83,260
+401		Lake Forest , California		83,240
+402		Buena Park , California		83,156
+403		Largo , Florida		83,065
+404		Cicero town, Illinois		82,992
+405		Avondale , Arizona		82,881
+406		Sioux City , Iowa		82,872
+407		Merced , California		82,594
+408		St. George , Utah		82,318
+409		Conroe , Texas		82,286
+410		Pleasanton , California		82,270
+411		Longview , Texas		82,055
+412		Medford , Oregon		81,636
+413		Warwick , Rhode Island		81,579
+414		Westland , Michigan		81,545
+415		Somerville , Massachusetts		81,322
+416		Melbourne , Florida		81,185
+417		Lakewood , California		81,138
+418		Farmington Hills , Michigan		81,129
+419		Cranston , Rhode Island		81,034
+420		Kennewick , Washington		80,454
+421		Mountain View , California		80,447
+422		Napa , California		80,416
+423		Tustin , California		80,395
+424		Lynchburg , Virginia		80,212
+425		Lawrence , Massachusetts		80,209
+426		Deerfield Beach , Florida		79,764
+427		Brooklyn Park , Minnesota		79,707
+428		New Rochelle , New York		79,557
+429		Parma , Ohio		79,425
+430		Alameda , California		78,906
+431		Chino Hills , California		78,822
+432		Springdale , Arkansas		78,557
+433		Bloomington , Illinois		78,005
+434		Bellflower , California		77,790
+435		Racine , Wisconsin		77,571
+436		Milpitas , California		77,528
+437		Auburn , Washington		77,472
+438		Pharr , Texas		77,320
+439		Scranton , Pennsylvania		77,291
+440		Folsom , California		77,271
+441		Goodyear , Arizona		77,258
+442		Plymouth , Minnesota		77,216
+443		Fort Myers , Florida		77,146
+444		Hammond , Indiana		77,134
+445		Manteca , California		76,908
+446		Loveland , Colorado		76,897
+447		Lake Charles , Louisiana		76,848
+448		Upland , California		76,684
+449		St. Joseph , Missouri		76,472
+450		Baldwin Park , California		76,464
+451		Gary , Indiana		76,424
+452		Perris , California		76,331
+453		Baytown , Texas		75,992
+454		Kalamazoo , Michigan		75,984
+455		Layton , Utah		75,655
+456		San Ramon , California		75,639
+457		Boynton Beach , Florida		75,569
+458		Wyoming , Michigan		75,567
+459		Gastonia , North Carolina		75,536
+460		Arlington Heights village, Illinois		75,525
+461		Union City , California		75,322
+462		Bethlehem , Pennsylvania		75,293
+463		Evanston , Illinois		74,895
+464		Jonesboro , Arkansas		74,889
+465		Franklin , Tennessee		74,794
+466		Missouri City , Texas		74,561
+467		Bolingbrook village, Illinois		74,518
+468		Schaumburg village, Illinois		74,446
+469		Camden , New Jersey		74,420
+470		Iowa City , Iowa		74,398
+471		Warner Robins , Georgia		74,388
+472		Appleton , Wisconsin		74,370
+473		Rapid City , South Dakota		74,048
+474		New Braunfels , Texas		73,959
+475		Albany , Georgia		73,801
+476		Temple , Texas		73,600
+477		Flower Mound town, Texas		73,547
+478		Rochester Hills , Michigan		73,422
+479		Southfield , Michigan		73,100
+480		Rock Hill , South Carolina		72,937
+481		Turlock , California		72,796
+482		Decatur , Illinois		72,706
+483		New Britain , Connecticut		72,558
+484		Apple Valley town, California		72,553
+485		Bismarck , North Dakota		72,417
+486		Missoula , Montana		72,364
+487		Waukesha , Wisconsin		72,363
+488		Rancho Cordova , California		72,326
+489		Gulfport , Mississippi		72,076
+490		Lafayette , Indiana		71,782
+491		Lauderhill , Florida		71,626
+492		Flagstaff , Arizona		71,459
+493		Wilmington , Delaware		71,442
+494		Pawtucket , Rhode Island		71,427
+495		Canton , Ohio		71,323
+496		Redlands , California		71,288
+497		Lynwood , California		71,187
+498		Pittsburg , California		70,679
+499		Passaic , New Jersey		70,635
+500		Pasco , Washington		70,579
+501		Frederick , Maryland		70,060
+502		Weston , Florida		70,015
+503		North Richland Hills , Texas		69,798
+504		Maple Grove , Minnesota		69,576
+505		Kissimmee , Florida		69,369
+506		Union City , New Jersey		69,296
+507		St. Charles , Missouri		69,293
+508		Walnut Creek , California		69,122
+509		South Jordan , Utah		69,034
+510		Muncie , Indiana		69,010
+511		Cedar Park , Texas		68,918
+512		Woodbury , Minnesota		68,820
+513		Palatine village, Illinois		68,766
+514		Bossier City , Louisiana		68,485
+515		Dothan , Alabama		68,468
+516		Mount Vernon , New York		68,344
+517		Eau Claire , Wisconsin		68,339
+518		Yorba Linda , California		68,235
+519		Davis , California		68,111
+520		Homestead , Florida		67,996
+521		Waterloo , Iowa		67,934
+522		Redondo Beach , California		67,867
+523		Jacksonville , North Carolina		67,784
+524		Gaithersburg , Maryland		67,776
+525		Victoria , Texas		67,670
+526		St. Cloud , Minnesota		67,641
+527		Marysville , Washington		67,626
+528		Greenville , South Carolina		67,453
+529		Delray Beach , Florida		67,371
+530		Camarillo , California		67,363
+531		Georgetown , Texas		67,140
+532		Kenner , Louisiana		67,089
+533		Palo Alto , California		67,024
+534		Jackson , Tennessee		67,005
+535		South San Francisco , California		66,980
+536		Rockville , Maryland		66,940
+537		Portland , Maine		66,937
+538		Yuba City , California		66,845
+539		Johnson City , Tennessee		66,677
+540		Daytona Beach , Florida		66,645
+541		Oshkosh , Wisconsin		66,579
+542		Broomfield , Colorado		66,529
+543		Eagan , Minnesota		66,428
+544		North Little Rock , Arkansas		66,278
+545		Bayonne , New Jersey		66,238
+546		Ames , Iowa		66,191
+547		Mansfield , Texas		65,631
+548		Harlingen , Texas		65,539
+549		Alpharetta , Georgia		65,338
+550		Laguna Niguel , California		65,328
+551		San Clemente , California		65,309
+552		Conway , Arkansas		65,300
+553		Bowling Green , Kentucky		65,234
+554		Tamarac , Florida		65,199
+555		Shawnee , Kansas		65,194
+556		Rogers , Arkansas		65,021
+557		Schenectady , New York		64,913
+558		East Orange , New Jersey		64,789
+559		Lodi , California		64,641
+560		Buckeye , Arizona		64,629
+561		West Des Moines , Iowa		64,560
+562		Santa Cruz , California		64,465
+563		Madera , California		64,444
+564		Youngstown , Ohio		64,312
+565		North Port , Florida		64,274
+566		Skokie village, Illinois		64,270
+567		Lake Elsinore , California		64,205
+568		Janesville , Wisconsin		64,159
+569		Cheyenne , Wyoming		64,019
+570		Eden Prairie , Minnesota		63,914
+571		Wellington village, Florida		63,900
+572		Jupiter town, Florida		63,813
+573		Sammamish , Washington		63,773
+574		Lorain , Ohio		63,730
+575		Pico Rivera , California		63,635
+576		Montebello , California		63,335
+577		Encinitas , California		63,131
+578		Auburn , Alabama		63,118
+579		Waltham , Massachusetts		63,002
+580		Blaine , Minnesota		62,892
+581		Haverhill , Massachusetts		62,873
+582		Rocklin , California		62,787
+583		Tulare , California		62,779
+584		Council Bluffs , Iowa		62,524
+585		Redmond , Washington		62,458
+586		Coon Rapids , Minnesota		62,359
+587		North Miami , Florida		62,139
+588		Hamilton , Ohio		62,127
+589		Rowlett , Texas		61,999
+590		San Marcos , Texas		61,980
+591		Lakeville , Minnesota		61,938
+592		Springfield , Oregon		61,893
+593		Grand Junction , Colorado		61,881
+594		La Habra , California		61,664
+595		Moore , Oklahoma		61,415
+596		Burnsville , Minnesota		61,290
+597		Taylor , Michigan		61,177
+598		Eastvale , California		61,151
+599		National City , California		61,147
+600		Lehi , Utah		61,130
+601		Port Orange , Florida		61,105
+602		Monterey Park , California		61,075
+603		Marietta , Georgia		60,941
+604		Terre Haute , Indiana		60,852
+605		Malden , Massachusetts		60,840
+606		Lakewood , Washington		60,665
+607		Utica , New York		60,652
+608		Cupertino , California		60,643
+609		Brentwood , California		60,532
+610		Petaluma , California		60,530
+611		Vineland , New Jersey		60,525
+612		Taylorsville , Utah		60,436
+613		Idaho Falls , Idaho		60,211
+614		Noblesville , Indiana		60,183
+615		Bristol , Connecticut		60,147
+616		West Allis , Wisconsin		60,087
+617		Gardena , California		60,048
+618		La Mesa , California		59,948
+619		St. Clair Shores , Michigan		59,775
+620		Pontiac , Michigan		59,698
+621		Meriden , Connecticut		59,622
+622		Dublin , California		59,583
+623		Coconut Creek , Florida		59,405
+624		Casper , Wyoming		59,324
+625		Owensboro , Kentucky		59,273
+626		Ocala , Florida		59,253
+627		Chapel Hill town, North Carolina		59,246
+628		Pflugerville , Texas		59,245
+629		Lancaster , Pennsylvania		59,218
+630		Novi , Michigan		59,211
+631		Great Falls , Montana		59,178
+632		Springfield , Ohio		59,087
+633		Woodland , California		59,068
+634		Royal Oak , Michigan		59,006
+635		Porterville , California		58,978
+636		San Rafael , California		58,954
+637		Huntington Park , California		58,879
+638		Orland Park village, Illinois		58,862
+639		Ankeny , Iowa		58,627
+640		Bartlett , Tennessee		58,622
+641		Sanford , Florida		58,605
+642		Dubuque , Iowa		58,531
+643		Arcadia , California		58,523
+644		Bowie , Maryland		58,393
+645		White Plains , New York		58,241
+646		Des Plaines , Illinois		58,141
+647		Doral , Florida		57,947
+648		Margate , Florida		57,870
+649		Santee , California		57,834
+650		Kokomo , Indiana		57,799
+651		Castle Rock town, Colorado		57,666
+652		Grand Forks , North Dakota		57,339
+653		Midwest City , Oklahoma		57,305
+654		St. Peters , Missouri		57,289
+655		Medford , Massachusetts		57,213
+656		Corvallis , Oregon		57,110
+657		Hendersonville , Tennessee		57,050
+658		New Brunswick , New Jersey		56,910
+659		Taunton , Massachusetts		56,843
+660		Tinley Park village, Illinois		56,831
+661		Diamond Bar , California		56,793
+662		Smyrna , Georgia		56,664
+663		Sarasota , Florida		56,610
+664		Greenwood , Indiana		56,545
+665		Fountain Valley , California		56,529
+666		Valdosta , Georgia		56,474
+667		Oak Lawn village, Illinois		56,257
+668		Novato , California		56,004
+669		Chicopee , Massachusetts		55,991
+670		Weymouth Town , Massachusetts		55,972
+671		Dearborn Heights , Michigan		55,761
+672		Berwyn , Illinois		55,748
+673		Bradenton , Florida		55,687
+674		Hempstead village, New York		55,555
+675		Hanford , California		55,547
+676		Rocky Mount , North Carolina		55,466
+677		Port Arthur , Texas		55,427
+678		Shoreline , Washington		55,333
+679		Kettering , Ohio		55,306
+680		Anderson , Indiana		55,130
+681		Decatur , Alabama		55,072
+682		Gilroy , California		55,069
+683		Richland , Washington		54,989
+684		Manhattan , Kansas		54,983
+685		Highland , California		54,939
+686		Paramount , California		54,909
+687		Commerce City , Colorado		54,869
+688		Huntersville town, North Carolina		54,839
+689		Euless , Texas		54,769
+690		Pocatello , Idaho		54,746
+691		Carson City, Nevada		54,742
+692		Colton , California		54,712
+693		Casa Grande , Arizona		54,534
+694		West Haven , Connecticut		54,516
+695		Rosemead , California		54,500
+696		Blue Springs , Missouri		54,431
+697		Hoboken , New Jersey		54,379
+698		Normal town, Illinois		54,264
+699		Bonita Springs , Florida		54,198
+700		Mount Prospect village, Illinois		54,171
+701		Cathedral City , California		54,056
+702		Watsonville , California		53,796
+703		Pensacola , Florida		53,779
+704		Palm Beach Gardens , Florida		53,778
+705		Lake Havasu City , Arizona		53,743
+706		Elyria , Ohio		53,715
+707		Bellevue , Nebraska		53,505
+708		Wheaton , Illinois		53,389
+709		West New York town, New Jersey		53,343
+710		Yucaipa , California		53,309
+711		Southaven , Mississippi		53,214
+712		Albany , Oregon		53,211
+713		Revere , Massachusetts		53,157
+714		Caldwell , Idaho		53,149
+715		Harrisonburg , Virginia		53,078
+716		West Sacramento , California		52,981
+717		Lenexa , Kansas		52,903
+718		Kingsport , Tennessee		52,806
+719		Burlington , North Carolina		52,709
+720		Delano , California		52,707
+721		Leesburg town, Virginia		52,607
+722		DeSoto , Texas		52,599
+723		Milford  (balance), Connecticut		52,536
+724		Perth Amboy , New Jersey		52,499
+725		Peabody , Massachusetts		52,491
+726		Brookhaven , Georgia		52,444
+727		Minnetonka , Minnesota		52,369
+728		Palm Desert , California		52,231
+729		Placentia , California		52,228
+730		Elkhart , Indiana		52,221
+731		Joplin , Missouri		52,195
+732		Pinellas Park , Florida		52,137
+733		La Crosse , Wisconsin		52,109
+734		Grapevine , Texas		51,971
+735		Apple Valley , Minnesota		51,957
+736		Tigard , Oregon		51,902
+737		Glendora , California		51,851
+738		Florissant , Missouri		51,776
+739		Oak Park village, Illinois		51,774
+740		Hoffman Estates village, Illinois		51,738
+741		Kentwood , Michigan		51,689
+742		Battle Creek , Michigan		51,534
+743		Grand Island , Nebraska		51,517
+744		Aliso Viejo , California		51,424
+745		Edina , Minnesota		51,350
+746		Olympia , Washington		51,202
+747		Parker town, Colorado		51,163
+748		Enid , Oklahoma		51,004
+749		Burien , Washington		50,997
+750		Coral Gables , Florida		50,815
+751		Logan , Utah		50,676
+752		Plainfield , New Jersey		50,636
+753		Cerritos , California		50,555
+754		Galveston , Texas		50,550
+755		Coeur d'Alene , Idaho		50,285
+756		Lakewood , Ohio		50,279
+757		Poway , California		50,077
+758		Troy , New York		49,702
+759		Charleston , West Virginia		49,138
+760		Saginaw , Michigan		48,984
+761		Niagara Falls , New York		48,632
