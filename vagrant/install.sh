@@ -20,8 +20,8 @@ mysql -u root -ppassword -e "GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIE
 mysql -u root -ppassword -e "DROP DATABASE test;"
 mysql -u root -ppassword -e "DROP USER ''@'localhost';"
 mysql -u root -ppassword -e "DROP USER ''@'$(hostname)';"
-mysql -u root -ppassword -e "CREATE USER 'cityfo'@'%' IDENTIFIED BY 'cityfopass';GRANT ALL ON *.* TO 'cityfo'@'%';FLUSH PRIVILEGES;"
-mysql -u root -ppassword -e "CREATE DATABASE cityfo;"
+mysql -u root -ppassword -e "CREATE USER 'sfbike'@'%' IDENTIFIED BY 'sfbikepass';GRANT ALL ON *.* TO 'sfbike'@'%';FLUSH PRIVILEGES;"
+mysql -u root -ppassword -e "CREATE DATABASE sfbike;"
 
 echo "Restarting mariadb"
 sudo systemctl stop mariadb

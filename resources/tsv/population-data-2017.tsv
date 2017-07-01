@@ -12,7 +12,7 @@
 12		Jacksonville , Florida		880,619
 13		San Francisco , California		870,887
 14		Columbus , Ohio		860,090
-15		Indianapolis  (balance), Indiana		855,164
+15		Indianapolis, Indiana		855,164
 16		Fort Worth , Texas		854,113
 17		Charlotte , North Carolina		842,051
 18		Seattle , Washington		704,352
@@ -90,7 +90,7 @@
 90		North Las Vegas , Nevada		238,702
 91		Irving , Texas		238,289
 92		Chesapeake , Virginia		237,940
-93		Gilbert town, Arizona		237,133
+93		Gilbert , Arizona		237,133
 94		Hialeah , Florida		236,387
 95		Garland , Texas		234,943
 96		Fremont , California		233,136
@@ -155,7 +155,7 @@
 155		Fort Collins , Colorado		164,207
 156		Peoria , Arizona		164,173
 157		Frisco , Texas		163,656
-158		Cary town, North Carolina		162,320
+158		Cary , North Carolina		162,320
 159		Lancaster , California		160,106
 160		Hayward , California		158,937
 161		Palmdale , California		157,356
@@ -228,7 +228,7 @@
 228		Ann Arbor , Michigan		120,782
 229		Fargo , North Dakota		120,762
 230		Columbia , Missouri		120,612
-231		Allentown , Pennsylvania		120,443
+231		Allen , Pennsylvania		120,443
 232		Evansville , Indiana		119,477
 233		Beaumont , Texas		118,299
 234		Odessa , Texas		117,871
@@ -267,7 +267,7 @@
 267		Palm Bay , Florida		110,104
 268		Centennial , Colorado		109,932
 269		Richmond , California		109,813
-270		San Buenaventura (Ventura) , California		109,592
+270		San Buenaventura , California		109,592
 271		Pompano Beach , Florida		109,393
 272		North Charleston , South Carolina		109,298
 273		Everett , Washington		109,043
@@ -295,7 +295,7 @@
 295		Rialto , California		103,314
 296		Davenport , Iowa		102,612
 297		League City , Texas		102,010
-298		Davie town, Florida		101,871
+298		Davie , Florida		101,871
 299		Las Cruces , New Mexico		101,759
 300		South Bend , Indiana		101,735
 301		Vista , California		101,659
@@ -401,7 +401,7 @@
 401		Lake Forest , California		83,240
 402		Buena Park , California		83,156
 403		Largo , Florida		83,065
-404		Cicero town, Illinois		82,992
+404		Cicero , Illinois		82,992
 405		Avondale , Arizona		82,881
 406		Sioux City , Iowa		82,872
 407		Merced , California		82,594
@@ -450,7 +450,7 @@
 450		Baldwin Park , California		76,464
 451		Gary , Indiana		76,424
 452		Perris , California		76,331
-453		Baytown , Texas		75,992
+453		Bay , Texas		75,992
 454		Kalamazoo , Michigan		75,984
 455		Layton , Utah		75,655
 456		San Ramon , California		75,639
@@ -474,14 +474,14 @@
 474		New Braunfels , Texas		73,959
 475		Albany , Georgia		73,801
 476		Temple , Texas		73,600
-477		Flower Mound town, Texas		73,547
+477		Flower Mound , Texas		73,547
 478		Rochester Hills , Michigan		73,422
 479		Southfield , Michigan		73,100
 480		Rock Hill , South Carolina		72,937
 481		Turlock , California		72,796
 482		Decatur , Illinois		72,706
 483		New Britain , Connecticut		72,558
-484		Apple Valley town, California		72,553
+484		Apple Valley , California		72,553
 485		Bismarck , North Dakota		72,417
 486		Missoula , Montana		72,364
 487		Waukesha , Wisconsin		72,363
@@ -528,7 +528,7 @@
 528		Greenville , South Carolina		67,453
 529		Delray Beach , Florida		67,371
 530		Camarillo , California		67,363
-531		Georgetown , Texas		67,140
+531		George , Texas		67,140
 532		Kenner , Louisiana		67,089
 533		Palo Alto , California		67,024
 534		Jackson , Tennessee		67,005
@@ -561,7 +561,7 @@
 561		West Des Moines , Iowa		64,560
 562		Santa Cruz , California		64,465
 563		Madera , California		64,444
-564		Youngstown , Ohio		64,312
+564		Youngs , Ohio		64,312
 565		North Port , Florida		64,274
 566		Skokie village, Illinois		64,270
 567		Lake Elsinore , California		64,205
@@ -569,7 +569,7 @@
 569		Cheyenne , Wyoming		64,019
 570		Eden Prairie , Minnesota		63,914
 571		Wellington village, Florida		63,900
-572		Jupiter town, Florida		63,813
+572		Jupiter , Florida		63,813
 573		Sammamish , Washington		63,773
 574		Lorain , Ohio		63,730
 575		Pico Rivera , California		63,635
@@ -624,7 +624,7 @@
 624		Casper , Wyoming		59,324
 625		Owensboro , Kentucky		59,273
 626		Ocala , Florida		59,253
-627		Chapel Hill town, North Carolina		59,246
+627		Chapel Hill , North Carolina		59,246
 628		Pflugerville , Texas		59,245
 629		Lancaster , Pennsylvania		59,218
 630		Novi , Michigan		59,211
@@ -648,7 +648,7 @@
 648		Margate , Florida		57,870
 649		Santee , California		57,834
 650		Kokomo , Indiana		57,799
-651		Castle Rock town, Colorado		57,666
+651		Castle Rock , Colorado		57,666
 652		Grand Forks , North Dakota		57,339
 653		Midwest City , Oklahoma		57,305
 654		St. Peters , Missouri		57,289
@@ -685,7 +685,7 @@
 685		Highland , California		54,939
 686		Paramount , California		54,909
 687		Commerce City , Colorado		54,869
-688		Huntersville town, North Carolina		54,839
+688		Huntersville , North Carolina		54,839
 689		Euless , Texas		54,769
 690		Pocatello , Idaho		54,746
 691		Carson City, Nevada		54,742
@@ -695,7 +695,7 @@
 695		Rosemead , California		54,500
 696		Blue Springs , Missouri		54,431
 697		Hoboken , New Jersey		54,379
-698		Normal town, Illinois		54,264
+698		Normal , Illinois		54,264
 699		Bonita Springs , Florida		54,198
 700		Mount Prospect village, Illinois		54,171
 701		Cathedral City , California		54,056
@@ -706,7 +706,7 @@
 706		Elyria , Ohio		53,715
 707		Bellevue , Nebraska		53,505
 708		Wheaton , Illinois		53,389
-709		West New York town, New Jersey		53,343
+709		West New York , New Jersey		53,343
 710		Yucaipa , California		53,309
 711		Southaven , Mississippi		53,214
 712		Albany , Oregon		53,211
@@ -718,9 +718,9 @@
 718		Kingsport , Tennessee		52,806
 719		Burlington , North Carolina		52,709
 720		Delano , California		52,707
-721		Leesburg town, Virginia		52,607
+721		Leesburg , Virginia		52,607
 722		DeSoto , Texas		52,599
-723		Milford  (balance), Connecticut		52,536
+723		Milford, Connecticut		52,536
 724		Perth Amboy , New Jersey		52,499
 725		Peabody , Massachusetts		52,491
 726		Brookhaven , Georgia		52,444
@@ -744,7 +744,7 @@
 744		Aliso Viejo , California		51,424
 745		Edina , Minnesota		51,350
 746		Olympia , Washington		51,202
-747		Parker town, Colorado		51,163
+747		Parker , Colorado		51,163
 748		Enid , Oklahoma		51,004
 749		Burien , Washington		50,997
 750		Coral Gables , Florida		50,815
