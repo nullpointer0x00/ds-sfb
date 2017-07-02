@@ -23,6 +23,11 @@ mysql -u root -ppassword -e "DROP USER ''@'$(hostname)';"
 mysql -u root -ppassword -e "CREATE USER 'sfbike'@'%' IDENTIFIED BY 'sfbikepass';GRANT ALL ON *.* TO 'sfbike'@'%';FLUSH PRIVILEGES;"
 mysql -u root -ppassword -e "CREATE DATABASE sfbike;"
 
+mysql -u root -ppassword sfbike < /vagrant/create-tables.sql
+mysql -u root -ppassword sfbike < /vagrant/stations.sql
+mysql -u root -ppassword sfbike < /vagrant/stations-status.sql
+mysql -u root -ppassword sfbike < /vagrant/trips.sql
+
 echo "Restarting mariadb"
 sudo systemctl stop mariadb
 sudo systemctl start mariadb

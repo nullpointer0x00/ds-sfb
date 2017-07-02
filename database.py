@@ -1,20 +1,25 @@
 import pymysql
-from datetime import date, datetime, timedelta
-
-from pymysql import MySQLError
-
 
 class MySqlDataSouce:
     def __init__(self):
         self.config = {
-            'user': 'cityfo',
-            'password': 'cityfo',
+            'user': 'sfbike',
+            'password': 'sfbikepass',
             'host': '127.0.0.1',
             'port': 3406,
-            'database': 'cityfo',
+            'database': 'sfbike',
             'charset': 'utf8mb4'
         }
         self.cnx = pymysql.connect(**self.config)
+
+    def get_connection(self) :
+        return self.cnx
+
+    def fetch_all_stations(self):
+        cursor = self.cnx.cursor()
+        query = ("SELECT * FROM station")
+        cursor.execute(query)
+        return cursor.fetchall()
 
     def __del__(self):
         try:

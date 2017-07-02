@@ -1,2 +1,5 @@
 .idea/
 vagrant/.vagrant
+vagrant/station.sql
+vagrant/station-status.sql
+vagrant/trips.sql

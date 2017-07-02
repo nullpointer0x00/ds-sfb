@@ -1,14 +1,20 @@
-f = open('/Users/nullpointer0x00/Downloads/babs_open_data_year_3/201608_station_data.csv', 'r')
+rf = open('', 'r')
+wf = open('vagrant/station.sql', 'w')
 insert_prefix =  'INSERT INTO `sfbike`.`station` (`station_id`, `name`, `lat`, `long`, `dockcount`, `landmark`, `installation`) VALUES ('
 
 def formatDate(date) :
     parts = date.split("/")
-    if not parts[2].startWith('20'):
+    if not parts[2].startswith('20'):
         parts[2] = "20" + parts[2]
     return parts[2] + "-" + parts[0] + "-" + parts[1]
 
+def create_insert(parts) :
+    statement = insert_prefix + part[0] + ",'" + parts[5] + "'," + part[2] + "," + parts[3] + "," + parts[4] + ",'" + parts[1] + "','" + parts[6] + "');"
+    print statement
+    return statement
+
 lineParts = []
-for line in f.readlines() :
+for line in rf.readlines() :
     parts = line.split(",")
     lineParts.append(parts)
 
@@ -23,5 +29,7 @@ for part in lineParts :
         station.append(part[4].strip())
         station.append(part[5].strip())
         station.append(formatDate(part[6].strip()))
-        print station
+        statement = create_insert(station)
+        wf.write(statement + "\n")
 
+wf.close()
