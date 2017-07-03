@@ -1,6 +1,5 @@
 from database import MySqlDataSouce
 
-
 HTML_FIRST_PART = '''
 <html><head></head><body>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -13,7 +12,7 @@ HTML_FIRST_PART = '''
 var data = google.visualization.arrayToDataTable(
 '''
 
-HTML_SECOND_PART =    '''
+HTML_SECOND_PART = '''
 );
     var options = {
       showTooltip: true,
@@ -29,13 +28,12 @@ HTML_SECOND_PART =    '''
     </body></head>
 '''
 
-class MapStations:
 
+class MapStations:
     def __init__(self):
         self.dao = MySqlDataSouce()
 
-
-    def sf_locations_string(self) :
+    def sf_locations_string(self):
         results = self.dao.fetch_all_stations();
         sf_coords = "[['Lat', 'Long', 'Name'],\n"
         coord_strs = []
@@ -46,4 +44,4 @@ class MapStations:
         return sf_coords
 
     def html(self):
-        return HTML_FIRST_PART + self.sf_locations_string()  + HTML_SECOND_PART
+        return HTML_FIRST_PART + self.sf_locations_string() + HTML_SECOND_PART

@@ -1,8 +1,9 @@
 .idea/
 vagrant/.vagrant
-vagrant/station.sql
-vagrant/station-status.sql
-vagrant/trips.sql
+sql/station.sql
+sql/station-status.sql
+sql/trips.sql
+sql/weather_summary.sql
 api-key.txt
 wunder_cache/
 *.pyc

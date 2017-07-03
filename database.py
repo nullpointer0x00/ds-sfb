@@ -1,5 +1,6 @@
 import pymysql
 
+
 class MySqlDataSouce:
     def __init__(self):
         self.config = {
@@ -12,7 +13,7 @@ class MySqlDataSouce:
         }
         self.cnx = pymysql.connect(**self.config)
 
-    def get_connection(self) :
+    def get_connection(self):
         return self.cnx
 
     def fetch_all_stations(self):
@@ -27,4 +28,3 @@ class MySqlDataSouce:
         except Exception as e:
             print("Error closing MySql connection: ", e)
             pass
-

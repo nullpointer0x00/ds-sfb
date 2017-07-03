@@ -3,8 +3,8 @@ from wunderground import WunderGroundApi
 import datetime
 import unittest
 
-class TestParser(unittest.TestCase):
 
+class TestParser(unittest.TestCase):
     def test_get_date_str(self):
         wg = WunderGroundApi()
         # self.assertEqual("", wg.get_date_str("not a date"))
