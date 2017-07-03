@@ -12,10 +12,9 @@ CREATE TABLE `station` (
   `station_id` INT NOT NULL,
   `bikes_available` INT NULL,
   `docks_available` INT NULL,
-  `time` DATETIME NULL,
-  PRIMARY KEY (`station_id`));
+  `time` DATETIME NULL);
   
-  CREATE TABLE `trip_data` (
+  CREATE TABLE `trip` (
   `trip_id` INT NOT NULL,
   `duration` INT NULL,
   `start_date` DATETIME NULL,

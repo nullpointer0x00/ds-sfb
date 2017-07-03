@@ -39,9 +39,10 @@ def tranform_line(line) :
     return statement
 
 def create_insert(parts) :
+    if parts[10]  == "nil" :
+        parts[10] == 'NULL'
     statement = insert_prefix + parts[0] + "," + parts[1] + ",'" + parts[2] + "','" + parts[3] + "'," + parts[4] + ",'";
     statement += parts[5] + "','" + parts[6] + "'," + parts[7] + "," + parts[8] + ",'" + parts[9] + "'," + parts[10] + ");";
-    print statement
     return statement
 
 with open("") as infile:

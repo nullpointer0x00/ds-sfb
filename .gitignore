@@ -3,3 +3,6 @@ vagrant/.vagrant
 vagrant/station.sql
 vagrant/station-status.sql
 vagrant/trips.sql
+api-key.txt
+wunder_cache/
+*.pyc
