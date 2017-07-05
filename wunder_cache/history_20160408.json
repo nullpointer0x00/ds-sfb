@@ -1,0 +1,645 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "April 8, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "12",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "April 8, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "19",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		{
+		"date": {
+		"pretty": "12:56 AM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "00",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "7:56 AM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "07",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"15.6", "tempi":"60.1","dewptm":"12.2", "dewpti":"54.0","hum":"80","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"240","wdire":"WSW","vism":"16.1", "visi":"10.0","pressurem":"1013.3", "pressurei":"29.93","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 080756Z 24008KT 10SM FEW150 BKN200 16/12 A2993 RMK AO2 SLP133 T01560122 402280156" },
+		{
+		"date": {
+		"pretty": "1:56 AM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "01",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "8:56 AM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "08",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"15.6", "tempi":"60.1","dewptm":"12.2", "dewpti":"54.0","hum":"80","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"16.1", "visi":"10.0","pressurem":"1012.6", "pressurei":"29.91","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 080856Z 27003KT 10SM FEW150 OVC200 16/12 A2991 RMK AO2 SLP126 T01560122 58005" },
+		{
+		"date": {
+		"pretty": "2:56 AM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "02",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "9:56 AM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "09",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"15.6", "tempi":"60.1","dewptm":"12.8", "dewpti":"55.0","hum":"83","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"150","wdire":"SSE","vism":"16.1", "visi":"10.0","pressurem":"1012.5", "pressurei":"29.90","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 080956Z 15003KT 10SM FEW014 OVC200 16/13 A2990 RMK AO2 SLP125 T01560128" },
+		{
+		"date": {
+		"pretty": "3:56 AM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "03",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "10:56 AM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "10",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"15.6", "tempi":"60.1","dewptm":"12.8", "dewpti":"55.0","hum":"83","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"16.1", "visi":"10.0","pressurem":"1011.9", "pressurei":"29.88","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 081056Z 00000KT 10SM FEW014 OVC200 16/13 A2988 RMK AO2 SLP119 T01560128" },
+		{
+		"date": {
+		"pretty": "4:56 AM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "04",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "11:56 AM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "11",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"15.6", "tempi":"60.1","dewptm":"12.8", "dewpti":"55.0","hum":"83","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"180","wdire":"South","vism":"16.1", "visi":"10.0","pressurem":"1012.0", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 081156Z 18003KT 10SM FEW014 SCT180 OVC200 16/13 A2989 RMK AO2 SLP120 T01560128 10161 20150 55006" },
+		{
+		"date": {
+		"pretty": "5:46 AM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "05",
+		"min": "46",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "12:46 PM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "12",
+		"min": "46",
+		"tzname": "UTC"
+		},
+		"tempm":"15.0", "tempi":"59.0","dewptm":"12.2", "dewpti":"54.0","hum":"83","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"16.1", "visi":"10.0","pressurem":"1011.7", "pressurei":"29.88","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KSFO 081246Z 27004KT 10SM BKN015 BKN110 OVC180 15/12 A2988 RMK AO2 T01500122" },
+		{
+		"date": {
+		"pretty": "5:56 AM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "05",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "12:56 PM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "12",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"15.0", "tempi":"59.0","dewptm":"12.2", "dewpti":"54.0","hum":"83","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"300","wdire":"WNW","vism":"16.1", "visi":"10.0","pressurem":"1011.7", "pressurei":"29.88","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 081256Z 30005KT 10SM BKN015 BKN110 OVC180 15/12 A2988 RMK AO2 SLP117 T01500122" },
+		{
+		"date": {
+		"pretty": "6:09 AM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "06",
+		"min": "09",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "1:09 PM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "13",
+		"min": "09",
+		"tzname": "UTC"
+		},
+		"tempm":"15.0", "tempi":"59.0","dewptm":"12.2", "dewpti":"54.0","hum":"83","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"290","wdire":"WNW","vism":"16.1", "visi":"10.0","pressurem":"1011.4", "pressurei":"29.87","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KSFO 081309Z 29006KT 10SM SCT015 BKN110 OVC180 15/12 A2987 RMK AO2 T01500122" },
+		{
+		"date": {
+		"pretty": "6:56 AM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "06",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "1:56 PM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "13",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"15.0", "tempi":"59.0","dewptm":"12.8", "dewpti":"55.0","hum":"87","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"300","wdire":"WNW","vism":"14.5", "visi":"9.0","pressurem":"1012.0", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 081356Z 30006KT 9SM FEW009 SCT120 OVC160 15/13 A2989 RMK AO2 SLP120 T01500128" },
+		{
+		"date": {
+		"pretty": "7:56 AM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "07",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "2:56 PM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "14",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"15.0", "tempi":"59.0","dewptm":"13.3", "dewpti":"55.9","hum":"90","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"280","wdire":"West","vism":"14.5", "visi":"9.0","pressurem":"1012.3", "pressurei":"29.90","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 081456Z 28006KT 9SM FEW008 SCT090 OVC110 15/13 A2990 RMK AO2 SLP123 T01500133 53003" },
+		{
+		"date": {
+		"pretty": "8:56 AM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "08",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "3:56 PM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "15",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"15.6", "tempi":"60.1","dewptm":"13.3", "dewpti":"55.9","hum":"86","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"280","wdire":"West","vism":"12.9", "visi":"8.0","pressurem":"1012.7", "pressurei":"29.91","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 081556Z 28007KT 8SM FEW007 BKN013 OVC019 16/13 A2991 RMK AO2 SLP127 T01560133" },
+		{
+		"date": {
+		"pretty": "9:56 AM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "09",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "4:56 PM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "16",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"16.1", "tempi":"61.0","dewptm":"13.9", "dewpti":"57.0","hum":"87","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"260","wdire":"West","vism":"14.5", "visi":"9.0","pressurem":"1013.0", "pressurei":"29.92","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 081656Z 26005KT 9SM FEW007 OVC017 16/14 A2992 RMK AO2 SLP130 T01610139" },
+		{
+		"date": {
+		"pretty": "10:56 AM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "10",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "5:56 PM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "17",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"16.7", "tempi":"62.1","dewptm":"13.3", "dewpti":"55.9","hum":"80","wspdm":"20.4", "wspdi":"12.7","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"290","wdire":"WNW","vism":"16.1", "visi":"10.0","pressurem":"1012.5", "pressurei":"29.90","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 081756Z 29011KT 10SM FEW008 OVC017 17/13 A2990 RMK AO2 SLP125 T01670133 10167 20150 50001" },
+		{
+		"date": {
+		"pretty": "11:56 AM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "11",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "6:56 PM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "18",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"16.7", "tempi":"62.1","dewptm":"13.3", "dewpti":"55.9","hum":"80","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"280","wdire":"West","vism":"16.1", "visi":"10.0","pressurem":"1012.8", "pressurei":"29.91","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 081856Z 28006KT 10SM FEW008 OVC020 17/13 A2991 RMK AO2 SLP128 T01670133" },
+		{
+		"date": {
+		"pretty": "12:56 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "12",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "7:56 PM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "19",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"17.2", "tempi":"63.0","dewptm":"13.3", "dewpti":"55.9","hum":"78","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"290","wdire":"WNW","vism":"16.1", "visi":"10.0","pressurem":"1012.5", "pressurei":"29.90","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 081956Z 29010KT 10SM FEW007 OVC019 17/13 A2990 RMK AO2 SLP125 T01720133" },
+		{
+		"date": {
+		"pretty": "1:56 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "13",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "8:56 PM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "20",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"17.8", "tempi":"64.0","dewptm":"13.3", "dewpti":"55.9","hum":"75","wspdm":"20.4", "wspdi":"12.7","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"16.1", "visi":"10.0","pressurem":"1012.5", "pressurei":"29.90","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 082056Z 27011KT 10SM FEW012 OVC024 18/13 A2990 RMK AO2 SLP125 T01780133 50000" },
+		{
+		"date": {
+		"pretty": "2:56 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "14",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "9:56 PM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "21",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"18.9", "tempi":"66.0","dewptm":"12.8", "dewpti":"55.0","hum":"68","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"230","wdire":"SW","vism":"16.1", "visi":"10.0","pressurem":"1011.8", "pressurei":"29.88","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 082156Z 23008KT 10SM FEW012 BKN025 BKN150 19/13 A2988 RMK AO2 SLP118 T01890128" },
+		{
+		"date": {
+		"pretty": "3:56 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "15",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "10:56 PM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "22",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"18.9", "tempi":"66.0","dewptm":"12.8", "dewpti":"55.0","hum":"68","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"230","wdire":"SW","vism":"16.1", "visi":"10.0","pressurem":"1011.5", "pressurei":"29.87","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 082256Z 23010KT 10SM FEW012 SCT025 BKN100 BKN150 19/13 A2987 RMK AO2 SLP115 T01890128" },
+		{
+		"date": {
+		"pretty": "4:56 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "16",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "11:56 PM GMT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "23",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"18.9", "tempi":"66.0","dewptm":"12.8", "dewpti":"55.0","hum":"68","wspdm":"20.4", "wspdi":"12.7","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"220","wdire":"SW","vism":"16.1", "visi":"10.0","pressurem":"1011.5", "pressurei":"29.87","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 082356Z 22011KT 10SM FEW013 SCT023 BKN065 BKN150 19/13 A2987 RMK AO2 SLP115 T01890128 10194 20161 56009" },
+		{
+		"date": {
+		"pretty": "5:56 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "17",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "12:56 AM GMT on April 09, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "09",
+		"hour": "00",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"17.8", "tempi":"64.0","dewptm":"12.8", "dewpti":"55.0","hum":"73","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"210","wdire":"SSW","vism":"16.1", "visi":"10.0","pressurem":"1011.4", "pressurei":"29.87","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 090056Z 21010KT 10SM FEW012 SCT038 BKN060 BKN150 18/13 A2987 RMK AO2 SLP114 T01780128" },
+		{
+		"date": {
+		"pretty": "6:56 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "18",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "1:56 AM GMT on April 09, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "09",
+		"hour": "01",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"17.2", "tempi":"63.0","dewptm":"12.8", "dewpti":"55.0","hum":"75","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"220","wdire":"SW","vism":"16.1", "visi":"10.0","pressurem":"1011.5", "pressurei":"29.87","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"0.0", "precipi":"0.00","conds":"Light Rain","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 090156Z 22007KT 10SM -RA FEW010 BKN049 BKN080 OVC150 17/13 A2987 RMK AO2 RAB56 SLP115 P0000 T01720128" },
+		{
+		"date": {
+		"pretty": "7:56 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "19",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "2:56 AM GMT on April 09, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "09",
+		"hour": "02",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"16.1", "tempi":"61.0","dewptm":"13.9", "dewpti":"57.0","hum":"87","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"300","wdire":"WNW","vism":"16.1", "visi":"10.0","pressurem":"1011.5", "pressurei":"29.87","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"0.0", "precipi":"0.00","conds":"Light Rain","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 090256Z 30008KT 10SM -RA FEW010 BKN045 OVC070 16/14 A2987 RMK AO2 SLP115 P0000 60000 T01610139 56000" },
+		{
+		"date": {
+		"pretty": "8:56 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "20",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "3:56 AM GMT on April 09, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "09",
+		"hour": "03",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"16.1", "tempi":"61.0","dewptm":"13.3", "dewpti":"55.9","hum":"83","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"190","wdire":"South","vism":"16.1", "visi":"10.0","pressurem":"1012.2", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"0.0", "precipi":"0.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 090356Z 19005KT 10SM FEW010 BKN050 OVC065 16/13 A2989 RMK AO2 RAE10 SLP122 P0000 T01610133" },
+		{
+		"date": {
+		"pretty": "9:56 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "21",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "4:56 AM GMT on April 09, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "09",
+		"hour": "04",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"15.6", "tempi":"60.1","dewptm":"13.9", "dewpti":"57.0","hum":"90","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"190","wdire":"South","vism":"12.9", "visi":"8.0","pressurem":"1012.9", "pressurei":"29.91","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"0.3", "precipi":"0.01","conds":"Light Rain","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 090456Z 19003KT 8SM -RA FEW010 BKN029 OVC050 16/14 A2991 RMK AO2 RAB24 SLP129 P0001 T01560139" },
+		{
+		"date": {
+		"pretty": "10:27 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "22",
+		"min": "27",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "5:27 AM GMT on April 09, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "09",
+		"hour": "05",
+		"min": "27",
+		"tzname": "UTC"
+		},
+		"tempm":"15.0", "tempi":"59.0","dewptm":"14.4", "dewpti":"57.9","hum":"96","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"230","wdire":"SW","vism":"3.2", "visi":"2.0","pressurem":"1012.8", "pressurei":"29.91","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"2.5", "precipi":"0.10","conds":"Rain","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KSFO 090527Z 23003KT 2SM RA BR FEW018 OVC027 15/14 A2991 RMK AO2 P0010 T01500144" },
+		{
+		"date": {
+		"pretty": "10:49 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "22",
+		"min": "49",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "5:49 AM GMT on April 09, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "09",
+		"hour": "05",
+		"min": "49",
+		"tzname": "UTC"
+		},
+		"tempm":"15.0", "tempi":"59.0","dewptm":"15.0", "dewpti":"59.0","hum":"100","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"4.8", "visi":"3.0","pressurem":"1012.8", "pressurei":"29.91","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"5.1", "precipi":"0.20","conds":"Rain","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KSFO 090549Z 27006KT 3SM RA BR FEW018 OVC027 15/15 A2991 RMK AO2 P0020 T01500150" },
+		{
+		"date": {
+		"pretty": "10:56 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "22",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "5:56 AM GMT on April 09, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "09",
+		"hour": "05",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"15.0", "tempi":"59.0","dewptm":"14.4", "dewpti":"57.9","hum":"96","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"260","wdire":"West","vism":"4.8", "visi":"3.0","pressurem":"1012.7", "pressurei":"29.91","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"5.6", "precipi":"0.22","conds":"Rain","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 090556Z 26006KT 3SM RA BR FEW018 OVC027 15/14 A2991 RMK AO2 SLP127 P0022 60023 T01500144 10189 20150 50012" },
+		{
+		"date": {
+		"pretty": "11:00 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "23",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "6:00 AM GMT on April 09, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "09",
+		"hour": "06",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"15.0", "tempi":"59.0","dewptm":"14.4", "dewpti":"57.9","hum":"96","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"280","wdire":"West","vism":"6.4", "visi":"4.0","pressurem":"1012.8", "pressurei":"29.91","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"0.3", "precipi":"0.01","conds":"Rain","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KSFO 090600Z 28006KT 4SM RA BR FEW009 SCT060 OVC080 15/14 A2991 RMK AO2 P0001 T01500144" },
+		{
+		"date": {
+		"pretty": "11:54 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "23",
+		"min": "54",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "6:54 AM GMT on April 09, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "09",
+		"hour": "06",
+		"min": "54",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"14.0", "dewpti":"57.2","hum":"88","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"260","wdire":"West","vism":"12.9", "visi":"8.0","pressurem":"1012.8", "pressurei":"29.91","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"1.0", "precipi":"0.04","conds":"Rain","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KSFO 090654Z 26007KT 8SM RA SCT012 BKN028 OVC085 16/14 A2991 RMK AO2 P0004" },
+		{
+		"date": {
+		"pretty": "11:56 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "23",
+		"min": "56",
+		"tzname": "America/Los_Angeles"
+		},
+		"utcdate": {
+		"pretty": "6:56 AM GMT on April 09, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "09",
+		"hour": "06",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"15.6", "tempi":"60.1","dewptm":"14.4", "dewpti":"57.9","hum":"93","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"11.3", "visi":"7.0","pressurem":"1012.6", "pressurei":"29.91","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"1.3", "precipi":"0.05","conds":"Rain","icon":"rain","fog":"0","rain":"1","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KSFO 090656Z 27007KT 7SM RA SCT012 BKN029 OVC085 16/14 A2991 RMK AO2 SLP126 P0005 T01560144" }
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "12:00 PM PDT on April 08, 2016",
+		"year": "2016",
+		"mon": "04",
+		"mday": "08",
+		"hour": "12",
+		"min": "00",
+		"tzname": "America/Los_Angeles"
+		},
+		"fog":"0","rain":"1","snow":"0","snowfallm":"0.00", "snowfalli":"0.00","monthtodatesnowfallm":"0.00", "monthtodatesnowfalli":"0.00","since1julsnowfallm":"0.00", "since1julsnowfalli":"0.00","snowdepthm":"", "snowdepthi":"","hail":"0","thunder":"0","tornado":"0","meantempm":"17", "meantempi":"63","meandewptm":"13", "meandewpti":"56","meanpressurem":"1012", "meanpressurei":"29.89","meanwindspdm":"12", "meanwindspdi":"8","meanwdire":"","meanwdird":"255","meanvism":"14", "meanvisi":"9","humidity":"","maxtempm":"19", "maxtempi":"67","mintempm":"15", "mintempi":"59","maxhumidity":"93","minhumidity":"68","maxdewptm":"15", "maxdewpti":"59","mindewptm":"12", "mindewpti":"54","maxpressurem":"1013", "maxpressurei":"29.93","minpressurem":"1011", "minpressurei":"29.87","maxwspdm":"26", "maxwspdi":"16","minwspdm":"0", "minwspdi":"0","maxvism":"16", "maxvisi":"10","minvism":"3", "minvisi":"2","gdegreedays":"12","heatingdegreedays":"2","coolingdegreedays":"0","precipm":"7.87", "precipi":"0.31","precipsource":"","heatingdegreedaysnormal":"9","monthtodateheatingdegreedays":"28","monthtodateheatingdegreedaysnormal":"72","since1sepheatingdegreedays":"","since1sepheatingdegreedaysnormal":"","since1julheatingdegreedays":"1643","since1julheatingdegreedaysnormal":"2192","coolingdegreedaysnormal":"0","monthtodatecoolingdegreedays":"8","monthtodatecoolingdegreedaysnormal":"0","since1sepcoolingdegreedays":"","since1sepcoolingdegreedaysnormal":"","since1jancoolingdegreedays":"8","since1jancoolingdegreedaysnormal":"1" }
+		]
+	}
+}

@@ -5,5 +5,4 @@ sql/station-status.sql
 sql/trips.sql
 sql/weather_summary.sql
 api-key.txt
-wunder_cache/
 *.pyc
