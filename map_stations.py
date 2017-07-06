@@ -25,7 +25,7 @@ HTML_SECOND_PART = '''
   };
   </script>
     <div id="chart_div"></div>
-    </body></head>
+    </body></html>
 '''
 
 
