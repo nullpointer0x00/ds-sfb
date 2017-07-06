@@ -39,7 +39,7 @@ class MapStations:
         coord_strs = []
         for row in results:
             if row[1] == 'San Francisco':
-                coord_strs.append("[" + str(row[2]) + ", " + str(row[3]) + ", '" + str(row[5]) + "']")
+                coord_strs.append("[" + str(row[2]) + ", " + str(row[3]) + ", '" + str(row[5]) + "-" + str(row[0]) + "']")
         sf_coords += ",\n".join(coord_strs) + "]"
         return sf_coords
 
