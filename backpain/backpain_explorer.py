@@ -4,7 +4,7 @@ import sqlite3
 
 conn = sqlite3.connect('backpain.db')
 
-data = pd.read_csv('Dataset_spine.csv', low_memory=False)
+data = pd.read_csv('./Dataset_spine.csv', low_memory=False)
 data.head()
 data.to_sql('spine',
             con=conn,
