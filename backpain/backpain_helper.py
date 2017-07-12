@@ -8,8 +8,6 @@ import os;
 class BackpainHelper:
 
     def __init__(self):
-        print os.getcwd();
-        print os.listdir('.')
         self.conn = sqlite3.connect('backpain.db')
         self.data = pd.read_csv('../Dataset_spine.csv', low_memory=False)
         self.data.to_sql('spine',
@@ -29,10 +27,11 @@ class BackpainHelper:
         return data
 
     def scatter_plot_combos(self, df, columns):
-        cmap = {'0': 'r', '1': 'g'}
-        while len(columns) >= 2:
-            x_column = columns.pop(0)
-            for column in columns :
+        cmap = {'0': 'g', '1': 'r'}
+        tmp_columns = columns[:]
+        while len(tmp_columns) >= 2:
+            x_column = tmp_columns.pop(0)
+            for column in tmp_columns :
                 df['cclassification'] = df.classification.apply(lambda x: cmap[str(x)])
                 plot = df.plot(x_column, column, kind='scatter', c=df.cclassification)
                 plot.legend(df.classification, loc='best')
@@ -46,7 +45,8 @@ class BackpainHelper:
         sns.heatmap(corr, mask=mask, cmap=cmap, vmax=.3, center=0,
                     square=True, linewidths=.5, cbar_kws={"shrink": .5})
 
-    def box_plots(self, df, columns) :
-            for column in columns :
-                sns.set_style("whitegrid")
-                sns.boxplot(x=df[column])
+    def box_plot(self, df, column) :
+        title = column.replace("_", " ")
+        sns.set_style("whitegrid")
+        ax = sns.boxplot(x=df[column])
+        ax.set_title(title)
