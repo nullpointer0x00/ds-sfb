@@ -1,7 +1,12 @@
 import sys
+
+from sklearn.linear_model import LogisticRegression
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler
+
 sys.path.append("../")
 from backpain_helper import BackpainHelper
-from sklearn import neighbors
+from sklearn import neighbors, cross_validation
 from sklearn.model_selection import GridSearchCV, cross_val_score, KFold
 from sklearn.metrics import accuracy_score
 from sklearn.tree import DecisionTreeClassifier
@@ -49,4 +54,30 @@ def nested_cross_val(X, y, n_trials) :
     score_difference = non_nested_scores - nested_scores
     return score_difference
 
-print nested_cross_val(X_data, y_data, 50)
+# print nested_cross_val(X_data, y_data, 50)
+
+scaler = StandardScaler()
+logistic_model = LogisticRegression()
+modeling_pipe = Pipeline([('scale',scaler),('model',logistic_model)])
+modeling_pipe.set_params(model__C = 1)
+print bh.nested_cross_val(modeling_pipe, X_data, y_data, {}, 4, 50).mean()
+
+
+kf = KFold(n_splits = 5, shuffle=True)
+gs = GridSearchCV(
+    estimator=modeling_pipe,
+    param_grid={},
+    cv=kf
+)
+gs.fit(df[columns], df.classification)
+# print gs.grid_scores_
+# print gs.best_score_
+# print gs.best_estimator_
+print gs.get_params()
+print gs.get_params().estimator__scale
+features = df[columns]
+feature_importances = np.absolute(gs.best_estimator_.coef_)[0]
+print feature_importances
+features_df = pd.DataFrame({'Features': columns, 'Importance Score': feature_importances})
+features_df.sort_values('Importance Score', inplace=True, ascending=False)
+features_df.head(12)
