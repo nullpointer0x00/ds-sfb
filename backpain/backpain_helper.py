@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import sqlite3
+from sklearn import neighbors
+from sklearn.model_selection import GridSearchCV, cross_val_score, KFold
 import os;
 
 class BackpainHelper:
@@ -50,3 +52,22 @@ class BackpainHelper:
         sns.set_style("whitegrid")
         ax = sns.boxplot(x=df[column])
         ax.set_title(title)
+
+    def nested_cross_val(self, estimator, X, y, p_grid, k_folds, n_trials):
+        X_data = X
+        y_data = y
+
+        NUM_TRIALS = n_trials
+        nested_scores = np.zeros(NUM_TRIALS)
+
+        for i in range(NUM_TRIALS):
+            inner_cv = KFold(n_splits=k_folds, shuffle=True, random_state=i)
+            outer_cv = KFold(n_splits=k_folds, shuffle=True, random_state=i)
+            clf = GridSearchCV(estimator=estimator,
+                               param_grid=p_grid,
+                               cv=inner_cv)
+            clf.fit(X_data, y_data)
+            nested_score = cross_val_score(clf, X=X_data, y=y_data, cv=outer_cv)
+            nested_scores[i] = nested_score.mean()
+
+        return nested_scores
